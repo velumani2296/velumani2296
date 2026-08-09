@@ -1,6 +1,6 @@
 # Hi 👋, I'm Velumani G
 
-### I'm Velumani G, a Computer Science & Engineering graduate from B.M.S. College of Engineering (BMSCE).
+### I'm a Computer Science & Engineering graduate from B.M.S. College of Engineering (BMSCE)
 
 - 🔭 I'm currently working on **DSU**
 
