@@ -2,8 +2,6 @@
 
 ### I'm Velumani G, a Computer Science & Engineering graduate from B.M.S. College of Engineering (BMSCE).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=velumani2296&label=Profile views&color=0e75b6&style=flat" alt="velumani2296" /> </p>
-
 - 🔭 I'm currently working on **DSU**
 
 - 📫 How to reach me **Velumani2296@gmail.com**
