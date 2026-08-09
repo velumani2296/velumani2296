@@ -2,7 +2,7 @@
 
 ### I'm a Computer Science & Engineering graduate from B.M.S. College of Engineering (BMSCE)
 
-- 🔭 I'm currently working on **DSU**
+- 🔭 I'm currently working in **DSU**
 
 - 📫 How to reach me **Velumani2296@gmail.com**
 
